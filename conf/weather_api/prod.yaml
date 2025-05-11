@@ -1,0 +1,4 @@
+
+_target_: my_app.OpenWeatherMapClient
+api_key: abc123
+# ...

@@ -1,0 +1,3 @@
+report_generator:
+  _target_: my_app.WeatherReportGenerator
+  weather_api: weather_api

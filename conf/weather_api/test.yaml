@@ -1,0 +1,3 @@
+_target_: my_app.MockWeatherAPI
+temp: 20
+conditions: "Sunny"
